@@ -1,5 +1,8 @@
 # #👋 Hi, I'm Kadiri Sandeyya
 
+![funny gif](https://media.giphy.com/media/your-gif-url/giphy.gif)
+
+
 🎓 Recent Graduate | Aspiring Software Developer & Data Analyst
 💻 Skilled in **Python, SQL, Excel, Power BI,NUmPy, Pandas, MySQL, PostgreSQL, FireBase, HTML, CSS, and Flask**
 📊 Interested in building software solutions, analyzing data, and creating interactive dashboards
