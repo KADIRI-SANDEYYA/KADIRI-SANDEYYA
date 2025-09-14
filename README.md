@@ -45,7 +45,7 @@
 ## 📂 Featured Projects
 - [Campus Placement Insights Dashboard](https://github.com/KADIRI-SANDEYYA/Campus-Placement-Insights-Dashboard) – Power BI & Excel  
 - [Interactive AI Job Trends Dashboard](https://github.com/KADIRI-SANDEYYA/Interactive-AI-Job-Trends-Dashboard) – Power BI & Excel  
-- [Flask Web Application](https://github.com/KADIRI-SANDEYYA/Share-Save/tree/Flask-App) – Python, Flask, HTML, CSS, JS & Excel
+- [Flask Web Application](https://github.com/KADIRI-SANDEYYA/Share-and-Save) – Python, Flask, HTML, CSS, JS & Excel
 
 ---
 
